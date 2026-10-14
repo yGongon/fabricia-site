@@ -1,0 +1,2 @@
+# SPA fallback: keeps /privacidade and other client-side paths working on refresh.
+/*    /index.html   200
